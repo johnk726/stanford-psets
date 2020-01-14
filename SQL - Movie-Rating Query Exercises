@@ -1,4 +1,4 @@
-'''sql
+```sql
 -- 1. Find the titles of all movies directed by Steven Spielberg.
 
 SELECT title
@@ -122,4 +122,4 @@ FROM (
   GROUP BY mId
 ) AS After1980;
 
-'''
+```
