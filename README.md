@@ -1,3 +1,3 @@
 # SQL-psets
 
-Solutions to various SQL Problem set exercises (Stanford DB, etc.)
+CS50 / Stanford DB solution problem sets
