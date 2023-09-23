@@ -1,3 +1,3 @@
-# SQL-psets
+# Problem sets
 
-Mirror for CS50 / Stanford DB solution problem sets
+CS50 / Stanford DB solution problem sets
