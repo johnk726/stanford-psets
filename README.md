@@ -1,3 +1,3 @@
-# SQL-psets
+# Stanford DB Problem Sets
 
-Mirror for CS50 / Stanford DB solution problem sets
+CS50 / Stanford DB problem sets from Professor Widom's class on databases.
